@@ -14,8 +14,12 @@ def receta_pasta():
     print("3. Mezclar todo y servir caliente.")
 
 # Agrega tu receta debajo de esta línea
-# Ejemplo:
-# def receta_tacos():
-#     print(" Receta: Tacos de pollo")
-#     print("Ingredientes: tortillas, pollo, cebolla, cilantro")
-#     print("Pasos: Cocinar el pollo, calentar las tortillas, armar los tacos.")
+
+def receta_sincronizada():
+    print(" Receta: Sincronizadas")
+    print("Ingredientes: tortillas de harina, jamón, queso, aguacate")
+    print("Pasos:")
+    print("1. Calentar una tortilla en el comal.")
+    print("2. Colocar jamón y queso sobre la tortilla.")
+    print("3. Tapar con otra tortilla y dorar por ambos lados.")
+    print("4. Servir con aguacate y salsa al gusto.")
